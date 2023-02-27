@@ -1,7 +1,7 @@
 # 修憲複決同意率與教育程度之關聯性
 (1)	課程：Exploratory Data Analysis with R  
 (2)	說明：運用R語言尋找修憲複決同意率與教育程度之關聯性。   
-(3) 資料來源：   
+(3) 資料來源：  
 * 2022全國性公民投票計票結果－政府開放平台：
 https://data.gov.tw/dataset/95883
 * 15歲人口以上識字率－02-02 臺閩地區十五歲以上人口戶籍註記教育程度 Population of 15 Years and Over by Educational Attainment in Taiwan-Fuchien Area －內政部：
